@@ -1,6 +1,7 @@
-[submodule "themes/basics"]
-	path = themes/basics
-	url = https://github.com/arjunkrishnababu96/basics.git
 [submodule "themes/elephants"]
 	path = themes/elephants
 	url = https://gitlab.com/meibenny/elephants.git
+[submodule "public"]
+	path = public
+	url = https://github.com/samayyatra/samayyatra.github.io.git
+	branch = master
