@@ -1,0 +1,10 @@
+baseURL = "http://samayyatra.com/"
+languageCode = "en-us"
+theme = "elephants"
+contentDir = "content"
+publishDir = "docs"
+title = "Samay Yatra"
+
+[params]
+	author = "Samay Yatra"
+	sitename = "Samay Yatra"
